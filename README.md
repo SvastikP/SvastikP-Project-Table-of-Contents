@@ -18,3 +18,5 @@ A quick overview of my main projects:
   https://github.com/SvastikP/SSH-Honeypot
 
 - **Virtual Karaoke**  
+  https://github.com/SvastikP/Virtual-Karaoke
+  Real‑time browser karaoke app with shared rooms, WebRTC video/audio, synchronized playback, and a searchable song queue.
